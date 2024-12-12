@@ -1,0 +1,3 @@
+TOKEN = "7152887072:AAG8l8acszNIjhUT8C8-y4mg1Qb6B2l-esY"
+coder_id = 6295780644
+group_log = -4679038499
